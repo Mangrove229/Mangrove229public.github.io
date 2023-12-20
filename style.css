@@ -1,3 +1,7 @@
 * {
   font-family: helvetica;
 }
+
+table {
+  border: 2px;
+}
